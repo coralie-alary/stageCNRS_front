@@ -1,0 +1,336 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6667,
+          15.15
+        ]
+      },
+      "properties": {
+        "Type": "Dry savanna",
+        "urlLabel": "Site metadata",
+        "color": "orange",
+        "name": "Agoufou",
+        "description": "The station is part of the Malian Gourma mesoscale site (14°5N-17°5N/2°W-1°W) in the AMMA (African Monsoon Multidisciplinary Analysis) CATCH program (Couplage de l'Atmosphere Tropicale et du Cycle Hydrologique). It is situated towards the northern limit of the area reached by the West African monsoon.",
+        "Country": "Mali",
+        "url": "/catalog/site/1",
+        "users": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8667,
+          -27.0667
+        ]
+      },
+      "properties": {
+        "Type": "Dry savanna",
+        "urlLabel": "Site metadata",
+        "color": "red",
+        "name": "Amersfoort",
+        "description": "Located on a private farm 15km from the town of Amersfoort. Semi-arid, regional savanna, impacted by anthropogenic activities, 200 km south-east of the Johannesburg metropolis and 50-100 km south-east of the major industrial activities on the Mpumalanga Highveld.",
+        "Country": "South Africa",
+        "url": "/catalog/site/9",
+        "users": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.47,
+          14.7
+        ]
+      },
+      "properties": {
+        "urlLabel": "Site metadata",
+        "color": "blue",
+        "name": "Bambey",
+        "description": "The station is hosted by the Centre National de Recherches Agronomiques (CNRA) of Bambey from the Institut Sénégalais de Recherches Agricoles (ISRA). Bambey is located 100 km east of Dakar. The PM10 inlet, the total deposition collectors and meteorological sensors are located on the roof of the building at 6.5 m height. The wet collector is located less than 1 m below.",
+        "Country": "Senegal",
+        "url": "/catalog/site/13",
+        "users": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4667,
+          13.5167
+        ]
+      },
+      "properties": {
+        "Type": "Dry savanna",
+        "urlLabel": "Site metadata",
+        "color": "orange",
+        "name": "Banizoumbou (LA)",
+        "description": "The station is located in a rural and agro-pastoral area of the Sahelian region of Niger, approximately 60 km east of Niamey in southwest Niger. The climate of this region is typically Sahelian.",
+        "Country": "Niger",
+        "url": "/catalog/site/3",
+        "users": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.66,
+          13.54
+        ]
+      },
+      "properties": {
+        "urlLabel": "Site metadata",
+        "color": "navy",
+        "name": "Banizoumbou (Lisa)",
+        "description": "The station is located in a fallow at 2.5 km from the village of Banizoumbou (60 km East of Niamey). The PM10 inlet, the total deposition collectors and meteorological sensors are located on the roof of the building at 6.5 m height. The wet collector is located less than 1 m below. Note that data acquisition has been interrupted in July 2012 due to the break down of the batteries. The system was repaired in 2013.",
+        "Country": "Niger",
+        "url": "/catalog/site/14",
+        "users": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3333,
+          2.2
+        ]
+      },
+      "properties": {
+        "Type": "Forest",
+        "urlLabel": "Site metadata",
+        "color": "navy",
+        "name": "Bomassa",
+        "description": "The station is located in the natural park of Nouabale Ndoki (3°32'12\"N – 0°40'29\"N; 15°28'26\"E – 17°34'8\"E), which extends from northern Congo into the Central African Republic. The site is situated in the northwest Congolese equatorial forests where the altitude varies from 330 to 600 m.",
+        "Country": "Congo",
+        "url": "/catalog/site/7",
+        "users": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4833,
+          -34.35
+        ]
+      },
+      "properties": {
+        "Type": "Coastal marine",
+        "urlLabel": "Site metadata",
+        "color": "orange",
+        "name": "Cape Point",
+        "description": "Marine, southern-hemispherical background site surrounded by fynbos in a protected area, nearby terrain predominantly rocky and sparsely vegetated, 60 km south from city of Cape Town.This site has also been included by the WMO as a GAW (Global Atmospheric Watch) coastal background site.",
+        "Country": "South Africa",
+        "url": "/catalog/site/10",
+        "users": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9333,
+          13.2833
+        ]
+      },
+      "properties": {
+        "urlLabel": "Site metadata",
+        "color": "red",
+        "name": "Cinzana",
+        "description": "The station is located in an agronomical research station (Station de Recherche Agronomique de Cinzana, SRAC) of the Institut d'Economie Rurale (IER), 40 km east south-east of the town of Ségou. The PM10 inlet and the total deposition collectors are located on the roof of the building at 6.5 m height. The wet collector is located 1 m below. The meorological parameters are measured at 2.3 m above the ground to be used for agricultural purpose by the SRAC. Note that data acquisition has been interrupted for several months in 2012 due to the break down of the batteries. The system was repaired in 2013.",
+        "Country": "Mali",
+        "url": "/catalog/site/12",
+        "users": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9167,
+          9.6667
+        ]
+      },
+      "properties": {
+        "Type": "Wet Savanna",
+        "urlLabel": "Site metadata",
+        "color": "green",
+        "name": "Djougou",
+        "description": "The station is located in northern Benin, 450 km from Cotonou. The site is one of the sites forming the AMMA (African Monsoon Multidisciplinary Analysis) Oueme mesoscale study. It is located in a clearing surrounded by secondary woodland, cultivated crops and fallow land. It lies within the southern Sudanian vegetation zone characterized by woodland savanna.",
+        "Country": "Benin",
+        "url": "/catalog/site/4",
+        "users": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5333,
+          12.9333
+        ]
+      },
+      "properties": {
+        "Type": "Dry savanna",
+        "urlLabel": "Site metadata",
+        "color": "orange",
+        "name": "Katibougou",
+        "description": "The station is located in the Koulikoro region, at the IPR center (Institut Polytechnique Rural), approximately 60 km northeast of Bamako.  It is representative of the Sudano-Sahelian zone.",
+        "Country": "Mali",
+        "url": "/catalog/site/2",
+        "users": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0333,
+          6.2167
+        ]
+      },
+      "properties": {
+        "Type": "Wet Savanna",
+        "urlLabel": "Site metadata",
+        "color": "orange",
+        "name": "Lamto",
+        "description": "The station is located, in the \"V-shaped Baoule\" region, 160 km north of Abidjan and falls into the wet savanna region of Cote d'Ivoire. The Lamto Reserve covers approximately 2600 ha and is essentially made up of wet savanna with the so-called Gallery Forest along the Bandama river.",
+        "Country": "Côte d'Ivoire",
+        "url": "/catalog/site/5",
+        "users": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30,
+          -23
+        ]
+      },
+      "properties": {
+        "Type": "Dry savanna",
+        "urlLabel": "Site metadata",
+        "color": "orange",
+        "name": "Louis Trichardt",
+        "description": "Situated on a private farm on the edge of the South African escarpment, approximately 20km from the nearest town. Semi-arid, regional savanna, rural site predominantly used for agricultural purposes, 400 km north-east of Johannesburg.",
+        "Country": "South Africa",
+        "url": "/catalog/site/8",
+        "users": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.96,
+          14.39
+        ]
+      },
+      "properties": {
+        "urlLabel": "Site metadata",
+        "color": "orange",
+        "name": "M'Bour",
+        "description": "The station is located in the geophysical station of the Institut de Recherche pour le Développement (IRD), south of the city of M'Bour, about 60 km south east of Dakar. The instruments are installed at 10m height, on the roof of a building close to the seaside. Data acquisition has been stopped in October 2012 due to building activities and traffic on the site. The PM10 concentration measurements started again in February 2013. After this date meteorological and deposition flux measurements are performed by Geosystem and LOA (Lilles) on a dedicated sampling tower.",
+        "Country": "Senegal",
+        "url": "/catalog/site/11",
+        "users": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6333,
+          33.5
+        ]
+      },
+      "properties": {
+        "Type": "Dry savanna",
+        "urlLabel": "Site metadata",
+        "color": "red",
+        "name": "Medenine",
+        "Country": "Tunisia",
+        "url": "/catalog/site/16",
+        "users": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5833,
+          -24.9833
+        ]
+      },
+      "properties": {
+        "Type": "Dry savanna",
+        "urlLabel": "Site metadata",
+        "color": "red",
+        "name": "Skukuza",
+        "description": "Semi-arid savanna, regional background site surrounded by natural bushveld in a protected area, 30 km from nearest low level anthropogenic pollution sources, mainly informal settlements.",
+        "Country": "South Africa",
+        "url": "/catalog/site/15",
+        "users": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9667,
+          3.1667
+        ]
+      },
+      "properties": {
+        "Type": "Forest",
+        "urlLabel": "Site metadata",
+        "color": "red",
+        "name": "Zoétélé",
+        "description": "The station is located in the rainforest of southern Cameroon, 120 km south of Yaounde. The dense evergreen 'Congo Forest' covers the entire region. Agriculture remains the dominant regional activity.",
+        "Country": "Cameroon",
+        "url": "/catalog/site/6",
+        "users": "9"
+      }
+    }
+  ]
+}
